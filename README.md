@@ -9,4 +9,4 @@
 <!---
 Thecyborgsarehere/Thecyborgsarehere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->https://github.com/Thecyborgsarehere/Thecyborgsarehere/blob/main/.github%2Fworkflows%2Fblank.yml#L1-L15
